@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123973307157",
+    "firebase_url": "https://ncudb-7c70d.firebaseio.com",
+    "project_id": "ncudb-7c70d",
+    "storage_bucket": "ncudb-7c70d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123973307157:android:251849e1f1d0be034eb71c",
+        "android_client_info": {
+          "package_name": "com.brainmentors.firebasecrudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123973307157-us5uf2nhj8vfkj716pcjklb83secqeea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzH7gRAlqqauGzj4QEqoiH-fuoDPDDzKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123973307157-us5uf2nhj8vfkj716pcjklb83secqeea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

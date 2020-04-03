@@ -26,8 +26,7 @@ class _LoginState extends State<Login> {
   }
 
   _doLogin() async {
-    // edumaker3@gmail.com
-    // qwertyuiop123@#$
+    
     GoogleSignInAccount googleSignInAccount = await googleSignIn.signIn();
     GoogleSignInAuthentication gsa = await googleSignInAccount.authentication;
     print("GSA is ${gsa.idToken} and ${gsa.accessToken}");
